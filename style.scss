@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+$font-family-sans-serif:'DM Sans', sans-serif;
+
+$info:hsl(10, 79%, 65%);
+$primary:hsl(33, 100%, 98%);
+
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+
+
+body{
+  background-color:hsl(27, 66%, 92%);
+
+}
